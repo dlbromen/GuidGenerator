@@ -1,0 +1,5 @@
+A simple Windows Forms app that simplifies Guid generation for those times when you need them.
+
+Features:
+- On launch, generates a new Guid and automatically copies it to the clipboard.
+- Can generate multiple Guids at a time.
